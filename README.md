@@ -43,7 +43,7 @@ class Calctest(unittest.TestCase):
 ```
 
 
-## Simple_calc.py (Code to be tested)
+## simple_calc.py (Code to be tested)
 
 - SimpleCalc class created and function written to pass the test
 
