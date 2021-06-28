@@ -12,6 +12,10 @@ This is the first practice case of test driven development in python. Unit test 
 - installing `pytest` by typing the command `pip install pytest`.
 - Unit tests were contained in file known as calc_test.py and the code to be tested was kept in simple_calc.py.
 
+- The approach that will be taken can be seen in the image below.
+
+![TDD Diagram](MicrosoftTeams-image.png)
+
 ## calc_test.py (unit tests)
 - `pytest`, `unitest` and `simple_calc.py` are imported at the top of the page.
 - test class created that contained all unit tests.
@@ -58,4 +62,5 @@ class SimpleCalc:
     def divide(self, num1, num2):
         return num1 / num2
 ```
+
 
